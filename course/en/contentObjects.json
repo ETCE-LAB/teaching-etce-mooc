@@ -1,0 +1,260 @@
+[
+  {
+    "title": "E01: Prior Knowledge",
+    "displayTitle": "E01: Prior Knowledge",
+    "body": "<p>This multiple choice quiz tests your prior knowledge of the topics that we will discuss during the course.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "Introduction",
+    "pageBody": "<p>This question is the exercise for <em>\"L01 - Introduction\"</em> of the \"Emerging Technologies for the Circular Economy\" course taught at the TU Clausthal. All the course material is hosted on our <a href=\"https://github.com/ETCE-LAB/teaching-material/tree/master/Emerging-Technologies-for-the-Circular-Economy\">G</a>itHub&nbsp;page.&nbsp;This multiple-choice quiz tests your prior knowledge of the topics that we will discuss during the course.&nbsp;</p><p>You must answer at least half&nbsp;<strong>the questions</strong> correctly to pass the exercise.</p><p>If you have any questions, you can contact us via e-mail: <a href=\"mailto:etce-etce@clausthal.de\">etce-etce@clausthal.de</a></p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "Start",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "65002a748217fa25e41881f4",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/a841a0dd31507a41d94703440e7023c8b6e9a4dd.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "E02: Circular Economy",
+    "displayTitle": "E02: Circular Economy",
+    "body": "<p>In this quiz, your knowledge about circular economies will be tested.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "Circular Economy",
+    "pageBody": "<p>This question is the exercise for <em>\"L02 - Circular Economy\"</em> of the \"Emerging Technologies for the Circular Economy\" course taught at the TU Clausthal. All the course material is hosted on our <a href=\"https://github.com/ETCE-LAB/teaching-material/tree/master/Emerging-Technologies-for-the-Circular-Economy\">G</a>itHub&nbsp;page.&nbsp;This multiple-choice quiz tests your prior knowledge of the topics that we will discuss during the course.&nbsp;</p><p>It would be best to answer at least <strong>half of the questions</strong> correctly to pass the exercise.</p><p>If you have any questions, you can contact us via e-mail: <a href=\"mailto:etce-etce@clausthal.de\">etce-etce@clausthal.de</a></p><p>&nbsp;</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "Start",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "65002a748217fa25e4188209",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/3406e8506f63576f47f8bae56593df1ab575d760.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "E07: Blockchain Technology",
+    "displayTitle": "E07: Blockchain Technology",
+    "body": "<p>This quiz tests your knowledge on blockchain technology.</p>",
+    "_classes": "",
+    "subtitle": "Introduction to Blockchain Technology",
+    "pageBody": "<p>This question is the exercise for <em>\"L07 - Introduction to Blockchain Technology\"</em> of the \"Emerging Technologies for the Circular Economy\" course taught at the TU Clausthal.&nbsp;All the course material is hosted on our <a href=\"https://github.com/ETCE-LAB/teaching-material/tree/master/Emerging-Technologies-for-the-Circular-Economy\">G</a>itHub&nbsp;page.&nbsp;This multiple choice quiz tests your prior knowledge of the topics that we will discuss during the course.&nbsp;</p><p>You must answer at least half of the questions correctly to pass the exercise.</p><p>If you have any questions, you can contact us via e-mail: <a href=\"mailto:etce-etce@clausthal.de\">etce-etce@clausthal.de</a></p><p>&nbsp;</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "Start",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "65002a748217fa25e418821e",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/d991309aadad0b5566e303fa82228fba0d6c6029.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  }
+]
