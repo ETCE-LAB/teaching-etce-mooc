@@ -8,8 +8,8 @@
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
   "_disableAnimationFor": [],
-  "_id": "65002a748217fa25e41881e5",
-  "_courseId": "65002a748217fa25e41881c6",
+  "_id": "6527c3a5e72d6c32787e2b39",
+  "_courseId": "6527c3a4e72d6c32787e2b1a",
   "_drawer": {
     "_showEasing": "easeOutQuart",
     "_hideEasing": "easeInQuart",
@@ -31,7 +31,7 @@
       "_notify": "1"
     }
   },
-  "__v": 2,
+  "__v": 0,
   "_completionCriteria": {
     "_requireContentCompleted": false,
     "_requireAssessmentCompleted": false
