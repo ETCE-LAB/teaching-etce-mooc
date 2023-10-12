@@ -2341,7 +2341,7 @@
         "_score": 0
       },
       {
-        "text": "Securely deleting data is difficult and active field of research.",
+        "text": "It usually requires less computation",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
@@ -4836,7 +4836,7 @@
     "_disableAccessibilityState": false,
     "title": "Question 11",
     "displayTitle": "",
-    "body": "<p><strong>Question 11:</strong> Your Ecological or Carbon Footprint is the ratio of:</p>",
+    "body": "<p><strong>Question 11:</strong> Your ecological footprint is the ratio of:</p>",
     "_id": "65002a758217fa25e41888bb",
     "_parentId": "65002a748217fa25e41884b4",
     "_type": "component",
