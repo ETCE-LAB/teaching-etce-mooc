@@ -364,7 +364,7 @@
     "_recordInteraction": true,
     "_hasItemScoring": false,
     "_questionWeight": 1,
-    "_selectable": 8,
+    "_selectable": 4,
     "_feedback": {
       "title": "",
       "correct": "",
@@ -1024,7 +1024,7 @@
     "_recordInteraction": true,
     "_hasItemScoring": false,
     "_questionWeight": 1,
-    "_selectable": 8,
+    "_selectable": 2,
     "_feedback": {
       "title": "",
       "correct": "",
@@ -1302,7 +1302,7 @@
     "_recordInteraction": true,
     "_hasItemScoring": false,
     "_questionWeight": 1,
-    "_selectable": 8,
+    "_selectable": 4,
     "_feedback": {
       "title": "",
       "correct": "",
@@ -1420,7 +1420,7 @@
     "_recordInteraction": true,
     "_hasItemScoring": false,
     "_questionWeight": 1,
-    "_selectable": 8,
+    "_selectable": 2,
     "_feedback": {
       "title": "",
       "correct": "",
@@ -1656,7 +1656,7 @@
     "_recordInteraction": true,
     "_hasItemScoring": false,
     "_questionWeight": 1,
-    "_selectable": 8,
+    "_selectable": 2,
     "_feedback": {
       "title": "",
       "correct": "",
@@ -1781,7 +1781,7 @@
     "_recordInteraction": true,
     "_hasItemScoring": false,
     "_questionWeight": 1,
-    "_selectable": 8,
+    "_selectable": 2,
     "_feedback": {
       "title": "",
       "correct": "",
@@ -1906,7 +1906,7 @@
     "_recordInteraction": true,
     "_hasItemScoring": false,
     "_questionWeight": 1,
-    "_selectable": 8,
+    "_selectable": 2,
     "_feedback": {
       "title": "",
       "correct": "",
@@ -2503,7 +2503,7 @@
     "_recordInteraction": true,
     "_hasItemScoring": false,
     "_questionWeight": 1,
-    "_selectable": 8,
+    "_selectable": 2,
     "_feedback": {
       "title": "",
       "correct": "",
@@ -2843,7 +2843,7 @@
     "_recordInteraction": true,
     "_hasItemScoring": false,
     "_questionWeight": 1,
-    "_selectable": 8,
+    "_selectable": 2,
     "_feedback": {
       "title": "",
       "correct": "",
@@ -2968,7 +2968,7 @@
     "_recordInteraction": true,
     "_hasItemScoring": false,
     "_questionWeight": 1,
-    "_selectable": 8,
+    "_selectable": 2,
     "_feedback": {
       "title": "",
       "correct": "",
@@ -5112,7 +5112,7 @@
     "_recordInteraction": true,
     "_hasItemScoring": false,
     "_questionWeight": 1,
-    "_selectable": 8,
+    "_selectable": 2,
     "_feedback": {
       "title": "",
       "correct": "",
