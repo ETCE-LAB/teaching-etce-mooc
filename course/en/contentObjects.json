@@ -17,8 +17,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527c3a5e72d6c32787e2b48",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65df045804b1a24755cb820e",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -103,8 +103,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527c3a5e72d6c32787e2b5d",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65df045904b1a24755cb8210",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -172,8 +172,8 @@
     }
   },
   {
-    "title": "E07: Blockchain Technology",
-    "displayTitle": "E07: Blockchain Technology",
+    "title": "E08: Blockchain Technology",
+    "displayTitle": "E08: Blockchain Technology",
     "body": "<p>This quiz tests your knowledge on blockchain technology.</p>",
     "_classes": "",
     "subtitle": "Introduction to Blockchain Technology",
@@ -189,8 +189,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527c3a5e72d6c32787e2b72",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65df045904b1a24755cb8212",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {

@@ -7,13 +7,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 01",
     "displayTitle": "",
     "body": "<p><strong>Question 01:</strong> Block ciphers are used in symmetric cryptography to encrypt and decrypt data. They operate on blocks of a fixed length (usually 64 or 128 bits). To encrypt some data, you could split it into block sized chunks and simply encrypt them separately. What which of the following properties are true?</p>",
-    "_id": "6527c3a5e72d6c32787e3007",
-    "_parentId": "6527c3a5e72d6c32787e2c08",
+    "_id": "65df045b04b1a24755cb825c",
+    "_parentId": "65df045904b1a24755cb821c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -38,6 +37,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -132,13 +133,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 04",
     "displayTitle": "",
     "body": "<p><strong>Question 04:</strong>&nbsp;Block ciphers can be used in different modes, such as \"Counter\" mode. Which of the following are properties of this mode?</p>",
-    "_id": "6527c3a6e72d6c32787e3016",
-    "_parentId": "6527c3a5e72d6c32787e2ce8",
+    "_id": "65df045b04b1a24755cb825d",
+    "_parentId": "65df045904b1a24755cb822a",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -163,6 +163,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -264,13 +266,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 03",
     "displayTitle": "",
     "body": "<p><strong>Question 03:</strong> Which of the following block cipher modes provide authenticated encryption?</p>",
-    "_id": "6527c3a6e72d6c32787e3025",
-    "_parentId": "6527c3a5e72d6c32787e2cb8",
+    "_id": "65df045b04b1a24755cb825e",
+    "_parentId": "65df045904b1a24755cb8227",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -295,6 +296,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -410,13 +413,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 02",
     "displayTitle": "",
     "body": "<p><strong>Question 02:</strong>&nbsp;Usually block ciphers have an encrypt and a decrypt function. Can a block cipher with only an encrypt function be useful?</p>",
-    "_id": "6527c3a6e72d6c32787e3034",
-    "_parentId": "6527c3a5e72d6c32787e2c88",
+    "_id": "65df045b04b1a24755cb825f",
+    "_parentId": "65df045904b1a24755cb8224",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -441,6 +443,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -542,13 +546,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 05",
     "displayTitle": "",
     "body": "<p><strong>Question 05:</strong> Is hashing data with MD5 a good way of proving that it was sent by the authorized sender?</p>",
-    "_id": "6527c3a6e72d6c32787e3043",
-    "_parentId": "6527c3a5e72d6c32787e2d18",
+    "_id": "65df045b04b1a24755cb8260",
+    "_parentId": "65df045904b1a24755cb822d",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -573,6 +576,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -653,13 +658,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 06",
     "displayTitle": "",
     "body": "<p><strong>Question 06:</strong>&nbsp;Which of the following properties are true for MACs?</p>",
-    "_id": "6527c3a6e72d6c32787e3052",
-    "_parentId": "6527c3a5e72d6c32787e2d48",
+    "_id": "65df045b04b1a24755cb8261",
+    "_parentId": "65df045904b1a24755cb8230",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -684,6 +688,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -785,13 +791,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 07",
     "displayTitle": "",
     "body": "<p><strong>Question 07:</strong> Which of the following techniques fall under the category of symmetric cryptography?</p>",
-    "_id": "6527c3a6e72d6c32787e3061",
-    "_parentId": "6527c3a5e72d6c32787e2d78",
+    "_id": "65df045b04b1a24755cb8262",
+    "_parentId": "65df045a04b1a24755cb8233",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -816,6 +821,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -931,13 +938,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 08",
     "displayTitle": "",
     "body": "<p><strong>Question 08:</strong>&nbsp;Encoded data is usually:</p>",
-    "_id": "6527c3a6e72d6c32787e3070",
-    "_parentId": "6527c3a5e72d6c32787e2da8",
+    "_id": "65df045b04b1a24755cb8263",
+    "_parentId": "65df045a04b1a24755cb8236",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -962,6 +968,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -1070,13 +1078,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 09",
     "displayTitle": "",
     "body": "<p><strong>Question 09:</strong> Cryptographically hashed data is usually:</p>",
-    "_id": "6527c3a6e72d6c32787e307f",
-    "_parentId": "6527c3a5e72d6c32787e2dd8",
+    "_id": "65df045b04b1a24755cb8264",
+    "_parentId": "65df045a04b1a24755cb8239",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1101,6 +1108,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -1209,13 +1218,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 10",
     "displayTitle": "",
     "body": "<p><strong>Question 10:</strong>&nbsp;Encrypted data is usually:</p>",
-    "_id": "6527c3a6e72d6c32787e308e",
-    "_parentId": "6527c3a5e72d6c32787e2e08",
+    "_id": "65df045b04b1a24755cb8265",
+    "_parentId": "65df045a04b1a24755cb823c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1240,6 +1248,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -1348,13 +1358,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 11",
     "displayTitle": "",
     "body": "<p><strong>Question 11:</strong> In asymmetric cryptography, you have a public and a private key. Which of the following statements are true?</p>",
-    "_id": "6527c3a6e72d6c32787e309d",
-    "_parentId": "6527c3a5e72d6c32787e2e38",
+    "_id": "65df045b04b1a24755cb8266",
+    "_parentId": "65df045a04b1a24755cb823f",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1379,6 +1388,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -1466,13 +1477,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 12",
     "displayTitle": "",
     "body": "<p><strong>Question 12:</strong>&nbsp;When both encrypting and compressing data, the preferable order and reason is:</p>",
-    "_id": "6527c3a6e72d6c32787e30ac",
-    "_parentId": "6527c3a5e72d6c32787e2e68",
+    "_id": "65df045b04b1a24755cb8267",
+    "_parentId": "65df045a04b1a24755cb8242",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1497,6 +1507,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -1584,13 +1596,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 13",
     "displayTitle": "",
     "body": "<p><strong>Question 13:</strong> In a man-in-the-middle attack:</p>",
-    "_id": "6527c3a6e72d6c32787e30bb",
-    "_parentId": "6527c3a5e72d6c32787e2e98",
+    "_id": "65df045b04b1a24755cb8268",
+    "_parentId": "65df045a04b1a24755cb8245",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1615,6 +1626,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -1702,13 +1715,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 14",
     "displayTitle": "",
     "body": "<p><strong>Question 14:</strong>&nbsp;Salts are used when securely hashing passwords. Which of the following is true?</p>",
-    "_id": "6527c3a6e72d6c32787e30ca",
-    "_parentId": "6527c3a5e72d6c32787e2eb8",
+    "_id": "65df045b04b1a24755cb8269",
+    "_parentId": "65df045a04b1a24755cb8247",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1733,6 +1745,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -1827,13 +1841,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 15",
     "displayTitle": "",
     "body": "<p><strong>Question 15:</strong> When verifying a user's password in a server based application, ideally:</p>",
-    "_id": "6527c3a6e72d6c32787e30d9",
-    "_parentId": "6527c3a5e72d6c32787e2ed8",
+    "_id": "65df045b04b1a24755cb826a",
+    "_parentId": "65df045a04b1a24755cb8249",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1858,6 +1871,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -1952,13 +1967,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 16",
     "displayTitle": "",
     "body": "<p><strong>Question 16:</strong>&nbsp;If a method to authenticate a message provides non-repudiation, it means that:</p>",
-    "_id": "6527c3a6e72d6c32787e30e8",
-    "_parentId": "6527c3a5e72d6c32787e2ef8",
+    "_id": "65df045b04b1a24755cb826b",
+    "_parentId": "65df045a04b1a24755cb824b",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1983,6 +1997,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -2056,13 +2072,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 17",
     "displayTitle": "",
     "body": "<p><strong>Question 17:</strong> When a file stored on a hard drive or SSD is deleted:</p>",
-    "_id": "6527c3a6e72d6c32787e30f7",
-    "_parentId": "6527c3a5e72d6c32787e2f18",
+    "_id": "65df045b04b1a24755cb826c",
+    "_parentId": "65df045a04b1a24755cb824d",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2087,6 +2102,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -2188,13 +2205,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 18",
     "displayTitle": "",
     "body": "<p><strong>Question 18:</strong>&nbsp;The Diffie-Hellman algorithm is used to:</p>",
-    "_id": "6527c3a6e72d6c32787e3106",
-    "_parentId": "6527c3a5e72d6c32787e2f38",
+    "_id": "65df045b04b1a24755cb826d",
+    "_parentId": "65df045a04b1a24755cb824f",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2219,6 +2235,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -2299,13 +2317,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 19",
     "displayTitle": "",
     "body": "<p><strong>Question 19:</strong> Compared to asymmetric cryptography, symmetric cryptography has the following properties:</p>",
-    "_id": "6527c3a6e72d6c32787e3115",
-    "_parentId": "6527c3a5e72d6c32787e2f48",
+    "_id": "65df045b04b1a24755cb826e",
+    "_parentId": "65df045a04b1a24755cb8250",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2330,6 +2347,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -2431,13 +2450,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 20",
     "displayTitle": "",
     "body": "<p><strong>Question 20:</strong>&nbsp;Doing cryptography in the browser with JavaScript is common these days but there are some issues:</p>",
-    "_id": "6527c3a6e72d6c32787e3124",
-    "_parentId": "6527c3a5e72d6c32787e2f58",
+    "_id": "65df045b04b1a24755cb826f",
+    "_parentId": "65df045a04b1a24755cb8251",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2462,6 +2480,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -2549,13 +2569,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 21",
     "displayTitle": "",
     "body": "<p><strong>Question 21:</strong> Does encrypting data prevent attackers from modifying the data in targeted ways?</p>",
-    "_id": "6527c3a6e72d6c32787e3133",
-    "_parentId": "6527c3a5e72d6c32787e2f68",
+    "_id": "65df045b04b1a24755cb8270",
+    "_parentId": "65df045a04b1a24755cb8252",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2580,6 +2599,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -2667,13 +2688,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 22",
     "displayTitle": "",
     "body": "<p><strong>Question 22:</strong>&nbsp;According to the pigeonhole principle, hashed data cannot be \"unhashed\" in the general case, but if your data is very short (1-5 characters), you could hash it and \"decode\" the hash by brute force search. Would this be a secure way of encrypting short strings of data?</p>",
-    "_id": "6527c3a6e72d6c32787e3142",
-    "_parentId": "6527c3a5e72d6c32787e2f78",
+    "_id": "65df045b04b1a24755cb8271",
+    "_parentId": "65df045a04b1a24755cb8253",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2698,6 +2718,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -2771,13 +2793,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 23",
     "displayTitle": "",
     "body": "<p><strong>Question 23:</strong> In cryptographic hashing, there is a concept preimage resistance. Which of the following is true?</p>",
-    "_id": "6527c3a6e72d6c32787e3151",
-    "_parentId": "6527c3a5e72d6c32787e2f88",
+    "_id": "65df045b04b1a24755cb8272",
+    "_parentId": "65df045a04b1a24755cb8254",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2802,6 +2823,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -2889,13 +2912,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 24",
     "displayTitle": "",
     "body": "<p><strong>Question 24:</strong>&nbsp;Digital signatures usually offer the following properties:</p>",
-    "_id": "6527c3a6e72d6c32787e3160",
-    "_parentId": "6527c3a5e72d6c32787e2f98",
+    "_id": "65df045b04b1a24755cb8273",
+    "_parentId": "65df045a04b1a24755cb8255",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2920,6 +2942,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -3014,13 +3038,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 25",
     "displayTitle": "",
     "body": "<p><strong>Question 25:</strong> To generate cryptographic key material the following sources can be usually reasonably secure:</p>",
-    "_id": "6527c3a6e72d6c32787e316f",
-    "_parentId": "6527c3a5e72d6c32787e2fa8",
+    "_id": "65df045b04b1a24755cb8274",
+    "_parentId": "65df045a04b1a24755cb8256",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3045,6 +3068,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -3146,13 +3171,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 26",
     "displayTitle": "",
     "body": "<p><strong>Question 26:</strong>&nbsp;In Python, a dictionary can have duplicate keys.</p>",
-    "_id": "6527c3a6e72d6c32787e317e",
-    "_parentId": "6527c3a5e72d6c32787e2fb8",
+    "_id": "65df045b04b1a24755cb8275",
+    "_parentId": "65df045b04b1a24755cb8257",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3177,6 +3201,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -3250,13 +3276,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 27",
     "displayTitle": "",
     "body": "<p><strong>Question 27:</strong> In Python, a list can have duplicate entries.</p>",
-    "_id": "6527c3a6e72d6c32787e318d",
-    "_parentId": "6527c3a5e72d6c32787e2fc8",
+    "_id": "65df045b04b1a24755cb8276",
+    "_parentId": "65df045b04b1a24755cb8258",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3281,6 +3306,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -3354,13 +3381,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 28",
     "displayTitle": "",
     "body": "<p><strong>Question 28:</strong>&nbsp;Which of the following Python packages can be used to create and manage a Python virtual environment?</p>",
-    "_id": "6527c3a6e72d6c32787e319c",
-    "_parentId": "6527c3a5e72d6c32787e2fd8",
+    "_id": "65df045b04b1a24755cb8277",
+    "_parentId": "65df045b04b1a24755cb8259",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3385,6 +3411,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -3465,13 +3493,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 29",
     "displayTitle": "",
     "body": "<p><strong>Question 29:</strong><br />&nbsp; &nbsp; &nbsp; &nbsp; [({'uuid': '00000000',<br />&nbsp; &nbsp; &nbsp; &nbsp; 'timestamp': 1618047000,<br />&nbsp; &nbsp; &nbsp; &nbsp; 'temp': 5.33,<br />&nbsp; &nbsp; &nbsp; &nbsp; 'clouds': 10,<br />&nbsp; &nbsp; &nbsp; &nbsp; 'wind_speed': 10,<br />&nbsp; &nbsp; &nbsp; &nbsp; 'wind_deg': 31.0,<br />&nbsp; &nbsp; &nbsp; &nbsp; 'wind_gust': 4.1,<br />&nbsp; &nbsp; &nbsp; &nbsp; 'rain': 1.54}, 45.5),<br />&nbsp; &nbsp; &nbsp; &nbsp; ({'uuid': '00000000',<br />&nbsp; &nbsp; &nbsp; &nbsp; 'timestamp': 1618017000,<br />&nbsp; &nbsp; &nbsp; &nbsp; 'temp': 5.33,<br />&nbsp; &nbsp; &nbsp; &nbsp; 'clouds': 10,<br />&nbsp; &nbsp; &nbsp; &nbsp; 'wind_speed': 10,<br />&nbsp; &nbsp; &nbsp; &nbsp; 'wind_deg': 31.0,<br />&nbsp; &nbsp; &nbsp; &nbsp; 'wind_gust': 4.1,<br />&nbsp; &nbsp; &nbsp; &nbsp; 'rain': 1.54}, 0.0)]</p><p>The above Python code snippet represents:</p>",
-    "_id": "6527c3a6e72d6c32787e31ab",
-    "_parentId": "6527c3a5e72d6c32787e2fe8",
+    "_id": "65df045b04b1a24755cb8278",
+    "_parentId": "65df045b04b1a24755cb825a",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3496,6 +3523,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -3576,13 +3605,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 01",
     "displayTitle": "",
     "body": "<p><strong>Question 01:</strong> The Era of R includes:</p>",
-    "_id": "6527c3a6e72d6c32787e31ba",
-    "_parentId": "6527c3a5e72d6c32787e2c18",
+    "_id": "65df045b04b1a24755cb8279",
+    "_parentId": "65df045904b1a24755cb821d",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3607,6 +3635,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -3701,13 +3731,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 01",
     "displayTitle": "",
     "body": "<p><strong>Question 01:</strong> Blockchain is the same as Bitcoin</p>",
-    "_id": "6527c3a6e72d6c32787e31c9",
-    "_parentId": "6527c3a5e72d6c32787e2c28",
+    "_id": "65df045b04b1a24755cb827a",
+    "_parentId": "65df045904b1a24755cb821e",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3732,6 +3761,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -3805,13 +3836,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 03",
     "displayTitle": "",
     "body": "<p><strong>Question 03:</strong> The Linear Economy is often briefly described as:</p>",
-    "_id": "6527c3a6e72d6c32787e31d8",
-    "_parentId": "6527c3a5e72d6c32787e2cc8",
+    "_id": "65df045b04b1a24755cb827b",
+    "_parentId": "65df045904b1a24755cb8228",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3836,6 +3866,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -3923,13 +3955,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 02",
     "displayTitle": "",
     "body": "<p><strong>Question 02:</strong> The Era of D is (lifecycle-wise) situated before the \"Point-of-End-of-Service-Life\" of products:</p>",
-    "_id": "6527c3a6e72d6c32787e31e7",
-    "_parentId": "6527c3a5e72d6c32787e2c98",
+    "_id": "65df045b04b1a24755cb827c",
+    "_parentId": "65df045904b1a24755cb8225",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3954,6 +3985,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -4027,13 +4060,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 04",
     "displayTitle": "",
     "body": "<p><strong>Question 04:</strong> How many generations are expected to live with the nuclear waste produced by two generations that benefited from cheap nuclear energy?</p>",
-    "_id": "6527c3a6e72d6c32787e31f6",
-    "_parentId": "6527c3a5e72d6c32787e2cf8",
+    "_id": "65df045b04b1a24755cb827d",
+    "_parentId": "65df045904b1a24755cb822b",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4058,6 +4090,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -4152,13 +4186,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 05",
     "displayTitle": "",
     "body": "<p><strong>Question 05:</strong> The Circular Economy is concerned with:</p>",
-    "_id": "6527c3a6e72d6c32787e3205",
-    "_parentId": "6527c3a5e72d6c32787e2d28",
+    "_id": "65df045b04b1a24755cb827e",
+    "_parentId": "65df045904b1a24755cb822e",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4183,6 +4216,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -4270,13 +4305,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 06",
     "displayTitle": "",
     "body": "<p><strong>Question 06:</strong> The Performance Economy is an extension of the:</p>",
-    "_id": "6527c3a6e72d6c32787e3214",
-    "_parentId": "6527c3a5e72d6c32787e2d58",
+    "_id": "65df045b04b1a24755cb827f",
+    "_parentId": "65df045a04b1a24755cb8231",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4301,6 +4335,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -4374,13 +4410,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 07",
     "displayTitle": "",
     "body": "<p><strong>Question 07:</strong> The goal of a LCA (Life Cycle Assessment) is to assess the environmental impact of products from a system perspective and to identify possible improvement strategies.</p>",
-    "_id": "6527c3a6e72d6c32787e3223",
-    "_parentId": "6527c3a5e72d6c32787e2d88",
+    "_id": "65df045b04b1a24755cb8280",
+    "_parentId": "65df045a04b1a24755cb8234",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4405,6 +4440,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -4478,13 +4515,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 08",
     "displayTitle": "",
     "body": "<p><strong>Question 08:</strong> An accurate definition of Sustainability is:</p>",
-    "_id": "6527c3a6e72d6c32787e3232",
-    "_parentId": "6527c3a5e72d6c32787e2db8",
+    "_id": "65df045b04b1a24755cb8281",
+    "_parentId": "65df045a04b1a24755cb8237",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4509,6 +4545,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -4596,13 +4634,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 09",
     "displayTitle": "",
     "body": "<p><strong>Question 09:</strong> The Performance Economy sells results instead of products. Which of the examples below fit into the Performance Economy?</p>",
-    "_id": "6527c3a6e72d6c32787e3241",
-    "_parentId": "6527c3a5e72d6c32787e2de8",
+    "_id": "65df045c04b1a24755cb8282",
+    "_parentId": "65df045a04b1a24755cb823a",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4627,6 +4664,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -4714,13 +4753,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 10",
     "displayTitle": "",
     "body": "<p><strong>Question 10:</strong> What is the least sustainable practice?</p>",
-    "_id": "6527c3a6e72d6c32787e3250",
-    "_parentId": "6527c3a5e72d6c32787e2e18",
+    "_id": "65df045c04b1a24755cb8283",
+    "_parentId": "65df045a04b1a24755cb823d",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4745,6 +4783,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -4832,13 +4872,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 11",
     "displayTitle": "",
     "body": "<p><strong>Question 11:</strong> Your ecological footprint is the ratio of:</p>",
-    "_id": "6527c3a6e72d6c32787e325f",
-    "_parentId": "6527c3a5e72d6c32787e2e48",
+    "_id": "65df045c04b1a24755cb8284",
+    "_parentId": "65df045a04b1a24755cb8240",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4863,6 +4902,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -4950,13 +4991,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 12",
     "displayTitle": "",
     "body": "<p><strong>Question 12:</strong> Can you as an individual enable, support, and contribute to the Circular Economy?</p>",
-    "_id": "6527c3a6e72d6c32787e326e",
-    "_parentId": "6527c3a5e72d6c32787e2e78",
+    "_id": "65df045c04b1a24755cb8285",
+    "_parentId": "65df045a04b1a24755cb8243",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4981,6 +5021,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -5054,13 +5096,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 02",
     "displayTitle": "",
     "body": "<p><strong>Question 02:</strong> Pick the records that are present within a blockchain:</p>",
-    "_id": "6527c3a6e72d6c32787e327d",
-    "_parentId": "6527c3a5e72d6c32787e2ca8",
+    "_id": "65df045c04b1a24755cb8286",
+    "_parentId": "65df045904b1a24755cb8226",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5085,6 +5126,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -5158,13 +5201,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 03",
     "displayTitle": "",
     "body": "<p><strong>Question 03:</strong> Blockchains store data in the form of ...</p>",
-    "_id": "6527c3a6e72d6c32787e328c",
-    "_parentId": "6527c3a5e72d6c32787e2cd8",
+    "_id": "65df045c04b1a24755cb8287",
+    "_parentId": "65df045904b1a24755cb8229",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5189,6 +5231,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -5276,13 +5320,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 04",
     "displayTitle": "",
     "body": "<p><strong>Question 04:</strong> How is a blockchain ledger different from a standard ledger?</p>",
-    "_id": "6527c3a6e72d6c32787e329b",
-    "_parentId": "6527c3a5e72d6c32787e2d08",
+    "_id": "65df045c04b1a24755cb8288",
+    "_parentId": "65df045904b1a24755cb822c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5307,6 +5350,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -5387,13 +5432,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 05",
     "displayTitle": "",
     "body": "<p><strong>Question 05:</strong> Modifying the contents of the n-th block in a blockchain invalidates the i-th block, with i in the range:</p>",
-    "_id": "6527c3a6e72d6c32787e32aa",
-    "_parentId": "6527c3a5e72d6c32787e2d38",
+    "_id": "65df045c04b1a24755cb8289",
+    "_parentId": "65df045904b1a24755cb822f",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5418,6 +5462,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -5505,13 +5551,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 06",
     "displayTitle": "",
     "body": "<p><strong>Question 06:</strong> A \"51% attack\" on a proof of work blockchain refers to:</p>",
-    "_id": "6527c3a6e72d6c32787e32b9",
-    "_parentId": "6527c3a5e72d6c32787e2d68",
+    "_id": "65df045c04b1a24755cb828a",
+    "_parentId": "65df045a04b1a24755cb8232",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5536,6 +5581,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -5616,13 +5663,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 07",
     "displayTitle": "",
     "body": "<p><strong>Question 07:</strong> Knowing a Bitcoin address provides you with:</p>",
-    "_id": "6527c3a6e72d6c32787e32c8",
-    "_parentId": "6527c3a5e72d6c32787e2d98",
+    "_id": "65df045c04b1a24755cb828b",
+    "_parentId": "65df045a04b1a24755cb8235",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5647,6 +5693,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -5734,13 +5782,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 08",
     "displayTitle": "",
     "body": "<p><strong>Question 08:</strong> What does P2P stand for?</p>",
-    "_id": "6527c3a6e72d6c32787e32d7",
-    "_parentId": "6527c3a5e72d6c32787e2dc8",
+    "_id": "65df045c04b1a24755cb828c",
+    "_parentId": "65df045a04b1a24755cb8238",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5765,6 +5812,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -5852,13 +5901,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 09",
     "displayTitle": "",
     "body": "<p><strong>Question 09:</strong> What is a blockchain node?</p>",
-    "_id": "6527c3a6e72d6c32787e32e6",
-    "_parentId": "6527c3a5e72d6c32787e2df8",
+    "_id": "65df045c04b1a24755cb828d",
+    "_parentId": "65df045a04b1a24755cb823b",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5883,6 +5931,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -5970,13 +6020,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 10",
     "displayTitle": "",
     "body": "<p><strong>Question 10:</strong> Which applies to most private keys?</p>",
-    "_id": "6527c3a6e72d6c32787e32f5",
-    "_parentId": "6527c3a5e72d6c32787e2e28",
+    "_id": "65df045c04b1a24755cb828e",
+    "_parentId": "65df045a04b1a24755cb823e",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6001,6 +6050,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -6088,13 +6139,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 11",
     "displayTitle": "",
     "body": "<p><strong>Question 11:</strong> Asymmetric encryption uses:</p>",
-    "_id": "6527c3a6e72d6c32787e3304",
-    "_parentId": "6527c3a5e72d6c32787e2e58",
+    "_id": "65df045c04b1a24755cb828f",
+    "_parentId": "65df045a04b1a24755cb8241",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6119,6 +6169,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -6206,13 +6258,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 12",
     "displayTitle": "",
     "body": "<p><strong>Question 12:</strong> What is a hash function?</p>",
-    "_id": "6527c3a6e72d6c32787e3313",
-    "_parentId": "6527c3a5e72d6c32787e2e88",
+    "_id": "65df045c04b1a24755cb8290",
+    "_parentId": "65df045a04b1a24755cb8244",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6237,6 +6288,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -6324,13 +6377,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 13",
     "displayTitle": "",
     "body": "<p><strong>Question 13:</strong> Once records are submitted on a proof of work blockchain, can they be altered?</p>",
-    "_id": "6527c3a6e72d6c32787e3322",
-    "_parentId": "6527c3a5e72d6c32787e2ea8",
+    "_id": "65df045c04b1a24755cb8291",
+    "_parentId": "65df045a04b1a24755cb8246",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6355,6 +6407,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -6442,13 +6496,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 14",
     "displayTitle": "",
     "body": "<p><strong>Question 14:</strong> What is the maximum number of Bitcoins that can be created?</p>",
-    "_id": "6527c3a6e72d6c32787e3331",
-    "_parentId": "6527c3a5e72d6c32787e2ec8",
+    "_id": "65df045c04b1a24755cb8292",
+    "_parentId": "65df045a04b1a24755cb8248",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6473,6 +6526,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -6560,13 +6615,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 15",
     "displayTitle": "",
     "body": "<p><strong>Question 15:</strong> Where is the Bitcoin central server located?</p>",
-    "_id": "6527c3a6e72d6c32787e3340",
-    "_parentId": "6527c3a5e72d6c32787e2ee8",
+    "_id": "65df045c04b1a24755cb8293",
+    "_parentId": "65df045a04b1a24755cb824a",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6591,6 +6645,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -6685,13 +6741,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 16",
     "displayTitle": "",
     "body": "<p><strong>Question 16:</strong> A block in the blockchain can never have more than one parent block.</p>",
-    "_id": "6527c3a6e72d6c32787e334f",
-    "_parentId": "6527c3a5e72d6c32787e2f08",
+    "_id": "65df045c04b1a24755cb8294",
+    "_parentId": "65df045a04b1a24755cb824c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6716,6 +6771,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -6789,13 +6846,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Question 17",
     "displayTitle": "",
     "body": "<p><strong>Question 17:</strong> In a blockchain, blocks are linked:</p>",
-    "_id": "6527c3a6e72d6c32787e335e",
-    "_parentId": "6527c3a5e72d6c32787e2f28",
+    "_id": "65df045c04b1a24755cb8295",
+    "_parentId": "65df045a04b1a24755cb824e",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6820,6 +6876,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -6900,13 +6958,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "6527c3a6e72d6c32787e336d",
-    "_parentId": "6527c3a5e72d6c32787e2c38",
+    "_id": "65df045c04b1a24755cb8296",
+    "_parentId": "65df045904b1a24755cb821f",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6931,6 +6988,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -6952,13 +7011,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "6527c3a6e72d6c32787e3388",
-    "_parentId": "6527c3a5e72d6c32787e2c48",
+    "_id": "65df045c04b1a24755cb8299",
+    "_parentId": "65df045904b1a24755cb8220",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6983,6 +7041,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -7004,13 +7064,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "6527c3a6e72d6c32787e33a3",
-    "_parentId": "6527c3a5e72d6c32787e2c58",
+    "_id": "65df045c04b1a24755cb829c",
+    "_parentId": "65df045904b1a24755cb8221",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -7035,6 +7094,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -7056,13 +7117,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Results",
     "displayTitle": "Results",
     "body": "",
-    "_id": "6527c3a6e72d6c32787e33be",
-    "_parentId": "6527c3a5e72d6c32787e2ff8",
+    "_id": "65df045c04b1a24755cb829f",
+    "_parentId": "65df045b04b1a24755cb825b",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -7087,6 +7147,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "",
     "_isVisibleBeforeCompletion": true,
     "_setCompletionOn": "inview",
@@ -7121,13 +7183,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Result",
     "displayTitle": "Result",
     "body": "",
-    "_id": "6527c3a6e72d6c32787e33cd",
-    "_parentId": "6527c3a5e72d6c32787e2c68",
+    "_id": "65df045c04b1a24755cb82a0",
+    "_parentId": "65df045904b1a24755cb8222",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -7152,6 +7213,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "",
     "_isVisibleBeforeCompletion": true,
     "_setCompletionOn": "inview",
@@ -7186,13 +7249,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Result",
     "displayTitle": "Result",
     "body": "",
-    "_id": "6527c3a6e72d6c32787e33dc",
-    "_parentId": "6527c3a5e72d6c32787e2c78",
+    "_id": "65df045c04b1a24755cb82a1",
+    "_parentId": "65df045904b1a24755cb8223",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -7217,6 +7279,8 @@
         "_instruction": ""
       }
     },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
     "instruction": "",
     "_isVisibleBeforeCompletion": true,
     "_setCompletionOn": "inview",
